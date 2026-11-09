@@ -1,3 +1,6 @@
+Trainee ID: 1000129292
+Name: MD. Dhokhan Kamal
+
 # Toxic Comment Classification: Transfer Learning, Fine-Tuning, Hyperparameter Tuning, and Interpretability
 
 ## Project Overview
